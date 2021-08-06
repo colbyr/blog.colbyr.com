@@ -1,6 +1,6 @@
 ## Starting at RC
 
-I've been brainstorming what I'll work on during my 12-weeks at [The Recurse Center](https://www.recurse.com/) when I start next week. I plan to spend a good amount of time programming but leave some room for serendipity. For now, my idea is to write a program that turns on the lights when I whistle a particular tune.
+I've been brainstorming what I'll work on at [The Recurse Center](https://www.recurse.com/) when I start next week. I plan to spend a good amount of time programming but leave some room for serendipity. For now, my idea is to write a program that turns on the lights when I whistle a particular tune.
 
 It's a concrete idea. I *think* it's achievable with wiggle room for exploration. Apparently it's been done before [more](https://youtu.be/27HGjE6ucqY?t=67) [than](https://www.wired.com/2017/01/classic-mobius-lamp/) [once](https://www.tindie.com/products/limpkin/the-whistled-a-whistle-detection-device/).
 
