@@ -63,5 +63,5 @@ ok
 ok
 ```
 
-That's all for now. Check out the rest of the series for more shell commands, or get straight into [the docs](https://erlang.org/doc/man/shell.html#shell-commands).
+That's all for now. Check out the rest of  [the rest of the series](https://blog.colbyr.com/series/e-as-in-eshell) for more shell commands, or get straight into [the docs](https://erlang.org/doc/man/shell.html#shell-commands).
 
