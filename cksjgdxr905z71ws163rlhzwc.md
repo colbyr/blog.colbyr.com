@@ -1,6 +1,6 @@
 ## "b" is for "bindings"
 
-I'm learning  [Erlang](https://erlang.org). It's been fun! The Erlang shell is a great environment for poking around. You get there by typing `erl` into the terminal.
+I'm [learning  Erlang](https://learnyousomeerlang.com/). It's been fun! The Erlang shell is a great environment for poking around. You get there by typing `erl` into the terminal.
 
 ```erl
 Erlang/OTP 24 [erts-12.0.3] [source] [64-bit] [smp:16:16] [ds:16:16:10] [async-threads:1] [jit] [dtrace]
@@ -63,5 +63,5 @@ ok
 ok
 ```
 
-That's all for now. Check out the rest of the series for more shell commands, or [get straight into the docs](https://erlang.org/doc/man/shell.html#shell-commands).
+That's all for now. Check out the rest of the series for more shell commands, or get straight into [the docs](https://erlang.org/doc/man/shell.html#shell-commands).
 
